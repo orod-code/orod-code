@@ -8,17 +8,49 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+<h1 align="center">
+  Hi there, I'm Dorsis Girma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+![Header Image](https://your-image-url.com)
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## About Me
 
- </div>
+Hello! I'm **Dorsis Girma**, a passionate developer from Ethiopia. I specialize in web development and Arduino system development. I love exploring new technologies and using them to solve real-world problems.
+
+- 🌍 I'm based in Ethiopia
+- 💻 I work on web and Arduino system development
+- 🌱 Currently learning more about advanced web technologies and IoT
+- 📫 How to reach me: [your email or social media links]
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📈 GitHub Stats
+
+![Dorsis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 My Contributions
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
