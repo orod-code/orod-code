@@ -27,7 +27,7 @@ Hello! I'm **Dorsis Girma**, a passionate developer from Ethiopia. I specialize 
 
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.dorsisgirma2004@gmail.com">
+  <a href="mailto:dorsisgirma2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
