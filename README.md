@@ -1,10 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-  Hi there, I'm DORSIS GIRMA<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
-
-<h3 align="center">A passionate web developer and Arduino from ETHIOPIA </h3>
 
 <br/>
 
@@ -12,7 +6,7 @@
   Hi there, I'm Dorsis Girma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-![Header Image](https://your-image-url.com)
+![Header Image](https://ibb.co/pr7gL3n)
 
 ## About Me
 
