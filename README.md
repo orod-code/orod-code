@@ -6,7 +6,7 @@
   Hi there, I'm Dorsis Girma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-![Header Image](https://ibb.co/pr7gL3n)
+![Header Image]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## About Me
 
