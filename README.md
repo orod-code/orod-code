@@ -14,7 +14,7 @@ Hello! I'm **Dorsis Girma**, a passionate developer from Ethiopia. I specialize 
 - 🌍 I'm based in Ethiopia
 - 💻 I work on web and Arduino system development
 - 🌱 Currently learning more about advanced web technologies and IoT
-- 📫 How to reach me: [your email or social media links]
+- 📫 How to reach me: gmail:dorsisgirma2004@gmail.com   phone number+251955385937
 
 
 
